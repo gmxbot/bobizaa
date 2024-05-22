@@ -136,7 +136,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'BOBIZA BOT ♥',
+title: 'GANAR BOT ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
 thumbnailUrl: 'https://telegra.ph/file/d2e73fb53459d3aaef851.jpg',
 sourceUrl: 'https://whatsapp.com/channel/0029VaXjhZHDTkJyxH5F1w1L',
